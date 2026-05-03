@@ -4,9 +4,9 @@ Approaches or solutions that have been tried before on similar projects.
 
 **Summary of Each Work**:
 
-- **Source 1**: [Title of Source 1]
+- **Source 1**: [Bitcoin Forecasting with Classical Time Series Models on Prices and Volatility]
 
-  - **[Link]()**
+  - **[[Link](https://arxiv.org/html/2511.06224v1)]()**
   - **Objective**:
   - **Methods**:
   - **Outcomes**:
