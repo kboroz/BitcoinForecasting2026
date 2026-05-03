@@ -12,9 +12,11 @@ Approaches or solutions that have been tried before on similar projects.
   - **Outcomes**:
   - **Relation to the Project**:
 
-- **Source 2**: [Title of Source 2]
+- **Source 2**: [Forecasting Bitcoin Price With Neural and
+Statistical Models Across Different
+Time Granularities]
 
-  - **[Link]()**
+  - **[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11206330)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11206330)**
   - **Objective**:
   - **Methods**:
   - **Outcomes**:
