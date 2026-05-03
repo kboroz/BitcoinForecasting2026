@@ -22,9 +22,25 @@ Time Granularities]
   - **Outcomes**:
   - **Relation to the Project**:
 
-- **Source 3**: [Title of Source 3]
+- **Source 3**: [Forecasting Cryptocurrency Prices]
 
-  - **[Link]()**
+  - **[[Link](https://www.imperial.ac.uk/media/imperial-college/faculty-of-natural-sciences/department-of-mathematics/math-finance/Forecasting_cryptocurrency_prices.pdf)]()**
+  - **Objective**:
+  - **Methods**:
+  - **Outcomes**:
+  - **Relation to the Project**:
+
+- **Source 4**: [FORECASTING BITCOIN PRICES: ARIMA vs LSTM]
+
+  - **[[Link](https://repositorio.iscte-iul.pt/bitstream/10071/19724/1/Master_Joao_Batista_Mendes.pdf)]()**
+  - **Objective**:
+  - **Methods**:
+  - **Outcomes**:
+  - **Relation to the Project**:
+ 
+- **Source 5**: [Forecasting Cryptocurrency Price Volatility]
+
+  - **[[Link](https://thesis.eur.nl/pub/67785/Thesis__Predicting_Cryptocurrency_Price_Volatility.pdf)]()**
   - **Objective**:
   - **Methods**:
   - **Outcomes**:
