@@ -45,3 +45,11 @@ Time Granularities]
   - **Methods**:
   - **Outcomes**:
   - **Relation to the Project**:
+ 
+- **Source 6**: [A data-driven approach to forecasting Bitcoin price using on-chain metrics]
+
+  - **[[Link](https://unitesi.unive.it/retrieve/cfabbce7-876c-4e67-acf2-0ee10c311c8d/Master_Thesis%20VRABII%20SIMION%20and%20FASANO%20GIOVANNI.pdf)]()**
+  - **Objective**:
+  - **Methods**:
+  - **Outcomes**:
+  - **Relation to the Project**:
