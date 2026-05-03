@@ -16,7 +16,7 @@ Approaches or solutions that have been tried before on similar projects.
 Statistical Models Across Different
 Time Granularities]
 
-  - **[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11206330)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11206330)**
+  - **[[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11206330)]()**
   - **Objective**:
   - **Methods**:
   - **Outcomes**:
