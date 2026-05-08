@@ -2,7 +2,7 @@
 
 ## Repository Link
 
-[https://github.com/kboroz/BitcoinForecasting2026/edit/main/README.md]
+[https://github.com/kboroz/BitcoinForecasting2026/blob/main/README.md]
 
 ## Description
 Contemporary Bitcoin Forecasting Using Hybrid Time-Series and Deep Learning Models (2026)
