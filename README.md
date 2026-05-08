@@ -1,8 +1,8 @@
-# [Your Project Title Here]
+# Contemporary Bitcoin Forecasting in 2026
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+[https://github.com/kboroz/BitcoinForecasting2026/edit/main/README.md]
 
 ## Description
 Contemporary Bitcoin Forecasting Using Hybrid Time-Series and Deep Learning Models (2026)
