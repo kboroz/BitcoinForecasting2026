@@ -53,3 +53,28 @@ Time Granularities]
   - **Methods**:
   - **Outcomes**:
   - **Relation to the Project**:
+
+- **Source 7**: [Machine Learning Approaches for Cryptocurrency Valuation Forecasting]
+
+  - **[[Link](https://ieeexplore.ieee.org/abstract/document/11200830)]()**
+  - **Objective**:
+  - **Methods**:
+  - **Outcomes**:
+  - **Relation to the Project**:
+
+- **Source 8**: [Comparative Bitcoin Price Prediction Using Multiple
+Machine Learning Techniques]
+
+  - **[[Link](https://www.atlantis-press.com/article/126002031.pdf)]()**
+  - **Objective**:
+  - **Methods**:
+  - **Outcomes**:
+  - **Relation to the Project**:
+ 
+- **Source 9**: [Improving the Efficiency of Bitcoin Market Price Prediction Using Novel Decision Tree Algorithm and Compare the Prediction Accuracy with K-Nearest Neighbor Algorithm(KNN)]
+
+  - **[[Link](https://ieeexplore.ieee.org/abstract/document/11120001)]()**
+  - **Objective**:
+  - **Methods**:
+  - **Outcomes**:
+  - **Relation to the Project**:
