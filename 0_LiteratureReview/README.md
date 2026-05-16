@@ -66,10 +66,10 @@ Time Granularities]
 Machine Learning Techniques]
 
   - **[[Link](https://www.atlantis-press.com/article/126002031.pdf)]()**
-  - **Objective**:
-  - **Methods**:
-  - **Outcomes**:
-  - **Relation to the Project**:
+  - **Objective**: To improve Bitcoin price prediction by using multiple machine learning and deep learning approaches on historical Bitcoin transaction data.
+  - **Methods**: The study used historical Bitcoin price and timestamp data with four machine learning models: Decision Tree (DT), Random Forest, Support Vector Machine (SVM), and Logistic Regression—and evaluated them using prediction horizons and Mean Squared Error (MSE).
+  - **Outcomes**: Random Forest and SVM performed best for short-term Bitcoin price prediction, while DT showed stable accuracy for predictions up to six days, whereas Logistic Regression had limited effectiveness.
+  - **Relation to the Project**: The paper is most important for a Bitcoin forecasting project because it compares several machine learning models on historical Bitcoin data and identifies Random Forest, SVM, and Decision Tree as effective approaches for short-term Bitcoin price prediction.
  
 - **Source 9**: [Improving the Efficiency of Bitcoin Market Price Prediction Using Novel Decision Tree Algorithm and Compare the Prediction Accuracy with K-Nearest Neighbor Algorithm(KNN)]
 
