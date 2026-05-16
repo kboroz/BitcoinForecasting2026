@@ -74,7 +74,7 @@ Machine Learning Techniques]
 - **Source 9**: [Improving the Efficiency of Bitcoin Market Price Prediction Using Novel Decision Tree Algorithm and Compare the Prediction Accuracy with K-Nearest Neighbor Algorithm(KNN)]
 
   - **[[Link](https://ieeexplore.ieee.org/abstract/document/11120001)]()**
-  - **Objective**:
-  - **Methods**:
-  - **Outcomes**:
-  - **Relation to the Project**:
+  - **Objective**: To compare the performance of a Novel Decision Tree (DT) algorithm and the K-Nearest Neighbor (KNN) algorithm for predicting Bitcoin price trends and software effort estimation using ML techniques.
+  - **Methods**: The study used open-source historical Bitcoin datasets with machine learning models (DT and KNN), implemented in Jupyter Notebook, and evaluated the algorithms using prediction accuracy, statistical analysis, and independent sample t-tests.
+  - **Outcomes**: The DT algorithm achieved slightly higher accuracy (87.80%) than KNN (86.91%), although the statistical difference between the models was not significant (p > 0.05).
+  - **Relation to the Project**: The paper is important because it compares ML algorithms on historical Bitcoin data and shows that the Decision Tree model achieved slightly better prediction accuracy than KNN for forecasting Bitcoin price trends.
