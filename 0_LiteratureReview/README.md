@@ -57,10 +57,10 @@ Time Granularities]
 - **Source 7**: [Machine Learning Approaches for Cryptocurrency Valuation Forecasting]
 
   - **[[Link](https://ieeexplore.ieee.org/abstract/document/11200830)]()**
-  - **Objective**:
-  - **Methods**:
-  - **Outcomes**:
-  - **Relation to the Project**:
+  - **Objective**: To improve Bitcoin price prediction accuracy by developing a hybrid machine learning framework that combines LSTM and XGBoost models.
+  - **Methods**: The study used 15 years of historical Bitcoin data from Yahoo Finance, applied preprocessing and feature engineering techniques, trained an LSTM model to capture temporal patterns, and combined its extracted features with XGBoost for final price prediction.
+  - **Outcomes**: The LSTM-XGBoost hybrid model achieved strong prediction performance with low error rates (MAE: 463.12, RMSE: 837.85) and a high R² score of 0.94, outperforming standalone and traditional models.
+  - **Relation to the Project**: The paper is important because it demonstrates how combining LSTM for time-series pattern recognition with XGBoost for nonlinear regression significantly improves Bitcoin price prediction accuracy and robustness.
 
 - **Source 8**: [Comparative Bitcoin Price Prediction Using Multiple
 Machine Learning Techniques]
