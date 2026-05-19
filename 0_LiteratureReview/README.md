@@ -49,10 +49,10 @@ Time Granularities]
 - **Source 6**: [A data-driven approach to forecasting Bitcoin price using on-chain metrics]
 
   - **[[Link](https://unitesi.unive.it/retrieve/cfabbce7-876c-4e67-acf2-0ee10c311c8d/Master_Thesis%20VRABII%20SIMION%20and%20FASANO%20GIOVANNI.pdf)]()**
-  - **Objective**:
-  - **Methods**:
-  - **Outcomes**:
-  - **Relation to the Project**:
+  - **Objective**: To develop a multi-model Bitcoin forecasting and trading system combining supervised, unsupervised, and reinforcement learning methods.
+  - **Methods**: Used Linear Regression, SVR, KMeans, GMM, CNN-LSTM, and reinforcement learning agents on daily and hourly Bitcoin/on-chain data.
+  - **Outcomes**: Linear Regression and SVR achieved excellent long-term forecasting; KMeans identified buy/sell signals effectively.
+  - **Relation to the Project**: It combines long-term forecasting, short-term prediction, and trading signal generation using both market and blockchain metrics.
 
 - **Source 7**: [Machine Learning Approaches for Cryptocurrency Valuation Forecasting]
 
